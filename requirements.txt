@@ -1,0 +1,7 @@
+
+langchain
+langchain-community
+streamlit
+transformers
+huggingface_hub
+langchain-huggingface
