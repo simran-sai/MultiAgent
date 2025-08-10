@@ -1,1 +1,2 @@
 # MultiAgent
+This is a MultiAgent AI project which generates Industry Use Cases and provides ideas about integrating AI to optimize their sales
